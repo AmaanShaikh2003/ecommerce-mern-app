@@ -66,11 +66,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 📸 Screenshot
-
-![App Screenshot](Full%20Stack%20E-Commerce%20MERN%20App.png)
-
----
 
 ## 📄 License
 
