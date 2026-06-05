@@ -4,13 +4,6 @@ A full-stack e-commerce web application built using the MERN stack — MongoDB, 
 
 ---
 
-## 🌐 Live Demo
-
-- **Frontend:** [codesoft-frontend.vercel.app](https://codesoft-frontend.vercel.app)
-- **Backend:** [codesoft-backend-eta.vercel.app](https://codesoft-backend-eta.vercel.app)
-
----
-
 ## 🗂️ Project Structure
 
 ```
